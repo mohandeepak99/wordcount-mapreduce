@@ -1,0 +1,3 @@
+- This is a basic MapReduce project of wordcount 
+- TO run this please add the jar files of hadoop and mapreduce externally if your working in eclipse.
+- After adding the required jar files create a jar file for the project and run in the terminal using the following commands.
